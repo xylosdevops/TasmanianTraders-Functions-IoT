@@ -1,5 +1,5 @@
 {
-    "id": "V91jxDZ7u59XcJ9FGzbRJlvPQ2grw54G",
+    "id": "v91jxdz7u59xcj9fgzbrjlvpq2grw54g",
     "functionTimeout": "00:05:00",
     "eventHub": {
       "maxBatchSize": 1000,
