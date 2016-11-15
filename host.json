@@ -1,0 +1,12 @@
+{
+    "id": "eb9a09ef-378e-428d-b93c-0da48b4cc1b8",
+    "functionTimeout": "00:05:00",
+    "eventHub": {
+      "maxBatchSize": 1000,
+      "prefetchCount": 100
+    },
+    "tracing": {
+      "consoleLevel": "verbose",
+      "fileLoggingMode": "debugOnly"
+    }
+}
