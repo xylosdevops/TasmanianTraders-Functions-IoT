@@ -7,7 +7,7 @@
             "direction": "in",
             "path": "samples-workitems",
             "consumerGroup": "kvaesfunction",
-            "connection": ""
+            "connection": "%eventhubconnection%"
         }
     ]
 }
