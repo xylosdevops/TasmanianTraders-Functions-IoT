@@ -5,8 +5,8 @@
             "type": "eventHubTrigger",
             "name": "myEventHubMessage",
             "direction": "in",
-            "path": "samples-workitems",
-            "consumerGroup": "kvaesfunction",
+            "path": "%eventhubconsumerpath%",
+            "consumerGroup": "%eventhubconsumergroup%",
             "connection": "%eventhubconnection%"
         }
     ]
